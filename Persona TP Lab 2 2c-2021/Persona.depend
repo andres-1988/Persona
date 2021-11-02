@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1634245344 source:c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\persona\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<cstdio>
+	"Persona.h"
+	"Cliente.h"
+	"Fecha.h"
+
+1633021616 c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\persona\include\persona.h
+
+1633024090 source:c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\persona\src\persona.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	"Persona.h"
+
+1634245255 c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\persona\include\cliente.h
+	"Persona.h"
+	"Fecha.h"
+
+1634180033 source:c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\persona\src\cliente.cpp
+	<iostream>
+	<cstdio>
+	"Cliente.h"
+
+1633028710 c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\persona\include\fecha.h
+
+1633028710 source:c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\persona\src\fecha.cpp
+	<iostream>
+	<stdio.h>
+	<ctime>
+	"Fecha.h"
+
+1635096636 source:c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\tp lab 2 2c-2021\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<cstdio>
+	"Persona.h"
+	"Cliente.h"
+	"Fecha.h"
+
+1633021616 c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\tp lab 2 2c-2021\include\persona.h
+
+1635034187 c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\tp lab 2 2c-2021\include\cliente.h
+	"Persona.h"
+	"Fecha.h"
+
+1633028710 c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\tp lab 2 2c-2021\include\fecha.h
+
+1633028710 source:c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\tp lab 2 2c-2021\src\fecha.cpp
+	<iostream>
+	<stdio.h>
+	<ctime>
+	"Fecha.h"
+
+1635033652 source:c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\tp lab 2 2c-2021\src\persona.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	"Persona.h"
+
+1635035135 source:c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\tp lab 2 2c-2021\src\cliente.cpp
+	<iostream>
+	<cstdio>
+	"Cliente.h"
+
+1635813567 source:c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\persona tp lab 2 2c-2021\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<cstdio>
+	"Persona.h"
+	"Cliente.h"
+	"Fecha.h"
+
+1633021616 c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\persona tp lab 2 2c-2021\include\persona.h
+
+1635812887 c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\persona tp lab 2 2c-2021\include\cliente.h
+	"Persona.h"
+	"Fecha.h"
+
+1635812887 c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\persona tp lab 2 2c-2021\include\fecha.h
+
+1635813406 source:c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\persona tp lab 2 2c-2021\src\cliente.cpp
+	<iostream>
+	<cstdio>
+	"Cliente.h"
+
+1635813406 source:c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\persona tp lab 2 2c-2021\src\fecha.cpp
+	<iostream>
+	<stdio.h>
+	<ctime>
+	"Fecha.h"
+
+1635813594 source:c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\persona tp lab 2 2c-2021\src\persona.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	"Persona.h"
+
