@@ -36,10 +36,12 @@
 		</Compiler>
 		<Unit filename="include/Cliente.h" />
 		<Unit filename="include/Fecha.h" />
+		<Unit filename="include/Menu.h" />
 		<Unit filename="include/Persona.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Cliente.cpp" />
 		<Unit filename="src/Fecha.cpp" />
+		<Unit filename="src/Menu.cpp" />
 		<Unit filename="src/Persona.cpp" />
 		<Extensions>
 			<code_completion />

@@ -67,7 +67,7 @@
 	<cstdio>
 	"Cliente.h"
 
-1635813567 source:c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\persona tp lab 2 2c-2021\main.cpp
+1635901299 source:c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\persona tp lab 2 2c-2021\main.cpp
 	<iostream>
 	<stdlib.h>
 	<cstring>
@@ -75,6 +75,7 @@
 	"Persona.h"
 	"Cliente.h"
 	"Fecha.h"
+	"Menu.h"
 
 1633021616 c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\persona tp lab 2 2c-2021\include\persona.h
 
@@ -82,14 +83,15 @@
 	"Persona.h"
 	"Fecha.h"
 
-1635812887 c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\persona tp lab 2 2c-2021\include\fecha.h
+1635990036 c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\persona tp lab 2 2c-2021\include\fecha.h
 
-1635813406 source:c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\persona tp lab 2 2c-2021\src\cliente.cpp
+1635990405 source:c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\persona tp lab 2 2c-2021\src\cliente.cpp
 	<iostream>
 	<cstdio>
 	"Cliente.h"
+	"Fecha.h"
 
-1635813406 source:c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\persona tp lab 2 2c-2021\src\fecha.cpp
+1635990560 source:c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\persona tp lab 2 2c-2021\src\fecha.cpp
 	<iostream>
 	<stdio.h>
 	<ctime>
@@ -100,4 +102,14 @@
 	<stdlib.h>
 	<cstring>
 	"Persona.h"
+
+1635990660 source:c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\persona tp lab 2 2c-2021\src\menu.cpp
+	<iostream>
+	"Menu.h"
+	"Persona.h"
+	"Fecha.h"
+
+1635990475 c:\users\andrés\desktop\ejercicios lab2 - 20-08-2021\persona tp lab 2 2c-2021\include\menu.h
+	"Persona.h"
+	"Fecha.h"
 

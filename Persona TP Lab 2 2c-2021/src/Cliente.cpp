@@ -4,6 +4,7 @@
 using namespace std;
 
 #include "Cliente.h"
+#include "Fecha.h"
 
 Cliente::Cliente()
 {
@@ -78,7 +79,7 @@ void Cliente::mostrar()
     cout<<"\nNUM. DE ID: "<<_IDreunion<<endl;
     cout<<"ES LA MESA NUM: "<<_numMesa<<endl;
     cout<<"LA CANT. DE COMENZALES ES: "<<_cantComenzales<<endl;
-    _fecha.mostrar();
+    _fecha.mostrarFecha();
 }
 
 bool Cliente::guardarEnDisco()

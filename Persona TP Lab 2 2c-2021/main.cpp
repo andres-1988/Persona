@@ -6,12 +6,17 @@
 #include"Persona.h"
 #include "Cliente.h"
 #include "Fecha.h"
+#include "Menu.h"
 
 using namespace std;
 
 int main()
 {
-    Cliente reg;
+    Menu m;
+    m.hacer();
+
+
+    /*Cliente reg;
 
     /*for (int i=0;i<2;i++)
     {
@@ -19,7 +24,7 @@ int main()
         reg.mostrar();
         reg.cargar();
         reg.guardarEnDisco();
-    }*/
+    }
 
    int i=0, cant = cantidadReuniones();
     cout << "Listado con un for" << endl;

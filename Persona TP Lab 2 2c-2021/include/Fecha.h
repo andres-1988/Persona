@@ -13,8 +13,8 @@ class Fecha
         int getMes();
         int getAnio();
 
-       // void cargar();
-        void mostrar();
+        void cargarFecha();
+        void mostrarFecha();
 
     protected:
 

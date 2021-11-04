@@ -58,7 +58,7 @@ int Fecha::getAnio()
 
 }*/
 
-void Fecha::mostrar()
+void Fecha::mostrarFecha()
 {
     if (_dia < 10)
     {
@@ -70,9 +70,21 @@ void Fecha::mostrar()
         cout << "0";
     }
     cout << _mes << "/";
-     if (_anio < 10)
+    if (_anio < 10)
     {
         cout << "0";
     }
     cout <<_anio << endl;
+}
+
+void Fecha::cargarFecha()
+{
+    //int dia, mes, anio;
+    cout<<"\nCARGAR FECHA CON EL FORMATO DD/MM/AA: "<<endl;
+    cout<<"INGRESE DIA: ";
+    cin>>_dia;
+    cout<<"INGRESE MES: ";
+    cin>>_mes;
+    cout<<"INGRESE ANIO: ";
+    cin>>_anio;
 }
